@@ -1,1 +1,15 @@
+title: <p align="center"> Sunkanna Basa </p>
+logo: /assets/img/logo.png
+
+description:
+  <p align="center">
+  <a href="https://github.com/Sun0023">GitHub</a>
+  
+  <br>   
+  Learning about the machine learning.And how to build those models.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
