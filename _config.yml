@@ -1,6 +1,15 @@
-title: Minimal theme
+title: <p align="center"> Sunkanna Basa </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="https://github.com/Sun0023">GitHub</a>
+  
+  <br>   
+  Working a writer as of now. But I am much into Machine Learning from now onwards.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
